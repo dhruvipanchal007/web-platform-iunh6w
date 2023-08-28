@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+.main {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  font-size: 70px;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: rgb(35, 35, 61);
+  color: white;
+}
+.box{
+  width: 100px;
+  height: 30px;
+  background-color: rgb(214, 214, 143);
+  font-size: 20px;
+  text-align: center;
+}
+.timer{
+display: inline-block;}
