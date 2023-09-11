@@ -1,12 +1,4 @@
-// console.log('hi');
 
-// time exceed -> call the function = 1
-// 1000ms = 1 sec
-// setTimeout(() => {
-//   console.log('Hi');
-// }, 5000);
-
-// time exceed -> every time intervl -> call the function => infinite
 const secondsEle = document.querySelector('#seconds');
 const minuteEle = document.querySelector('#minutes');
 const hourEle = document.querySelector('#hours');
