@@ -16,3 +16,10 @@ setInterval(() => {
   dayEle.textContent = days;
   counter++;
 }, 1000);
+
+// setInterval(()=> {
+// console.log('hii')
+// },1000);
+// setTimeout(()=> {
+//   console.log('hii')
+// },2000);
